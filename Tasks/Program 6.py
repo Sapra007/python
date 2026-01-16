@@ -1,4 +1,4 @@
-#write a program to convert kilometers to miles
+#write a program to concert kilometers to miles
 kilometers = float(input("enter distance in kilometers:"))
 
 #conversion factor: 1 kilometer = 0.621371 miles
